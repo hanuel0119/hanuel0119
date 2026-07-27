@@ -12,10 +12,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 프로젝트
-- 📖 도서관리 프로그램
-- 🕷️ YES24 도서 크롤링
-- 📊 데이터 분석 프로젝트
+- 만남 사이트(할래말래) 팀 작업
 
 ## 연락처
-- Email : example@email.com
+- Email : freeko119@naver.com
 
