@@ -6,7 +6,7 @@
 - 📚 MySQL, Pandas 학습 중
 
 ## 기술 스택
-- Python
+**- Python**
 - MySQL
 - HTML/CSS
 - Git & GitHub
@@ -18,3 +18,4 @@
 
 ## 연락처
 - Email : example@email.com
+
