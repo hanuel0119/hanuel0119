@@ -1,16 +1,20 @@
-## Hi there 👋
+# 안녕하세요 👋
 
-<!--
-**hanuel0119/hanuel0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 소개
+- 🌱 Python 공부 중
+- 💻 데이터 분석과 웹 크롤링에 관심
+- 📚 MySQL, Pandas 학습 중
 
-Here are some ideas to get you started:
+## 기술 스택
+- Python
+- MySQL
+- HTML/CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 프로젝트
+- 📖 도서관리 프로그램
+- 🕷️ YES24 도서 크롤링
+- 📊 데이터 분석 프로젝트
+
+## 연락처
+- Email : example@email.com
