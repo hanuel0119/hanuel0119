@@ -50,7 +50,7 @@
 - 포인트 시스템
 - 사용자 중심 UI/UX 설계
 
-🔗 [Portfolio](https://hanuel-portfolio.vercel.app/)
+🔗 [Link](https://hanuel-portfolio.vercel.app/)
 
 
 ### 할래말래
@@ -70,6 +70,7 @@
 - Spring Boot
 - Web Development
 
+🔗 [Link](https://hlml-bice.vercel.app/)
 
 ## 📫 Contact
 
