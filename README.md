@@ -61,6 +61,7 @@
 - API 연동
 - 데이터베이스 구축
 
+🔗 [Link](https://hlml-bice.vercel.app/)
 
 ## 📚 Currently Learning
 
@@ -69,8 +70,7 @@
 - Python
 - Spring Boot
 - Web Development
-
-🔗 [Link](https://hlml-bice.vercel.app/)
+  
 
 ## 📫 Contact
 
