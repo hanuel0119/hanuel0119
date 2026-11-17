@@ -41,6 +41,17 @@
 
 ## 📂 Projects
 
+### 할래말래
+팀으로 진행한 만남/커뮤니티 웹 프로젝트
+
+- 사용자 인증
+- 게시글 및 커뮤니티 기능
+- API 연동
+- 데이터베이스 구축
+
+🔗 [Link](https://hlml-bice.vercel.app/)
+
+
 ### B!NK
 친환경 도서 순환과 eBook 서비스를 결합한 도서 플랫폼 프로젝트
 
@@ -52,16 +63,6 @@
 
 🔗 [Link](https://hanuel-portfolio.vercel.app/)
 
-
-### 할래말래
-팀으로 진행한 만남/커뮤니티 웹 프로젝트
-
-- 사용자 인증
-- 게시글 및 커뮤니티 기능
-- API 연동
-- 데이터베이스 구축
-
-🔗 [Link](https://hlml-bice.vercel.app/)
 
 ### 바꿈
 파일 변환 사이트(이미지, 영상, MP3, OBJ, 이미지 크기 조절, uv 확인 등)
