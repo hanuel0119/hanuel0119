@@ -49,6 +49,8 @@
 - API 연동
 - 데이터베이스 구축
 
+🔗 [PDF](https://canva.link/1t8hm5esd0ceds0)
+
 🔗 [Link](https://hlml-bice.vercel.app/)
 
 
